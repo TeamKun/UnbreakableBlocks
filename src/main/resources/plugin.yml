@@ -1,0 +1,4 @@
+name: UnbreakableBlocks
+version: '${project.version}'
+main: net.kunmc.lab.unbreakableblocks.UnbreakableBlocks
+api-version: 1.16
